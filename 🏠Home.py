@@ -75,7 +75,7 @@ legend = folium.map.Marker(
 map.add_child(legend)
 
 folium.LayerControl().add_to(map)
-st_folium(map, width=700, height=500)
+st_folium(map, width=700, height=400)
 
 
 # Initialize connection to SQLite database
