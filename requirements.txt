@@ -6,3 +6,10 @@ seaborn==0.13.2
 streamlit==1.36.0
 folium
 streamlit-folium
+streamlit
+matplotlib
+numpy
+pandas
+scikit_learn
+seaborn
+
