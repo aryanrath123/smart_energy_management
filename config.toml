@@ -1,0 +1,19 @@
+[server]
+headless = true
+port = 8501
+enableCORS = false
+
+[theme]
+primaryColor = "#008080"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#000000"
+font = "sans serif"
+
+[global]
+title = "Intelligent Energy Management System"
+favicon = "favicon.ico"
+
+[logger]
+level = "info"
+format = "%(asctime)s - %(message)s"
